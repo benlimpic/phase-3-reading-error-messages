@@ -1,3 +1,4 @@
-"hello world"
+#a_name_error.rb
+hello_world = "hello world"
 
-hello_world
+
